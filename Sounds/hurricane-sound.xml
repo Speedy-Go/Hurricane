@@ -512,7 +512,7 @@
 		</guns>
 		<click>
 			<name>nav lights click down</name>
-			<path>Aircraft/Spitfire/Sounds/click.wav</path>
+			<path>Aircraft/Hurricane/Sounds/click.wav</path>
 			<condition>
 				<property>controls/lighting/nav-lights</property>
 			</condition>
